@@ -31,3 +31,7 @@ brew services stop mongodb-community
 ```zsh
 pip install -r requirements.txt
 ```
+
+### 参考
+
+[MongoDBをMacOSにインストール](https://qiita.com/fztkm/items/827200b1a5efaa28521c)
